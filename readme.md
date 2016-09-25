@@ -1,7 +1,5 @@
 # SQL Examples For Dev Boot Camp
 
-FYI this all runs on SQLLite3
-
 Was helping out some folks understand how to write basic SQL code so made a quick set of tables to outline the following concepts: 
  - One to One, One to Many, Many to Many relationships
  - CRUD Operations (Insert, Select, Update, Delete) 
@@ -14,3 +12,4 @@ The relationships between the tables are:
  - A User has one Preference but a Preference can belong to many Users.
  - A User has many Tools and a Tool can belong to Many Users.
 
+To run the commands make sure to run all the tables and seeds before any of the commands. 
